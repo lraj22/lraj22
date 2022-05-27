@@ -1,4 +1,4 @@
-Hi! I'm @lraj22 👋😎
+Hi! I'm Lakshya Raj (@lraj22) 👋😎
 
 I'm currently working on anything that's related to web technologies. HTML, CSS, JS, Node, extensions made with JS, etc. Basically, if you can somehow get JavaScript into it, I want to see how. 😂
 
